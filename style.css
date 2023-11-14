@@ -272,7 +272,7 @@ a:hover {
     color: #fefefe;
     border-radius: 20px;
     padding: 24px;
-    min-width: 300px;
+    min-width: 320px;
     grid-area: sidebarContent;
     gap: 20px;
     margin-top: 80px;
@@ -452,7 +452,7 @@ a:hover {
         color: #fefefe;
         border-radius: 20px;
         padding: 20px;
-        min-width: 400px;
+        min-width: 600px;
         grid-area: sidebarContent;
         gap: 20px;
         margin-top: 80px;
