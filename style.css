@@ -264,7 +264,7 @@ a:hover {
 }
 
 .sidebarContent {
-    background-color: #000000;
+    background: linear-gradient(rgba(0, 0, 0, 0.888), rgba(0, 0, 0, 0.707), rgba(73, 72, 72, 0.508));
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -444,7 +444,7 @@ a:hover {
     }
 
     .sidebarContent {
-        background-color: #000000;
+        background-color: #000000bd;
         display: flex;
         flex-direction: column;
         align-items: center;
